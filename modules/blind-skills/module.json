@@ -20,7 +20,7 @@
           }
       ]
   },
-  "download": "releases/download/blind-skills/blind-skills.zip",
+  "download": "https://github.com/Joltium/foundryvtt/releases/download/blind-skills/blind-skills.zip",
   "scripts": [
     "scripts/blind-skills.js",
     "scripts/settings.js"
