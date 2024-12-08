@@ -1,0 +1,27 @@
+{
+  "id": "blind-skills",
+  "title": "Blind Skills",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "Joltium",
+      "flags": {}
+    }
+  ],
+  "relationships":{
+      "systems": [
+          {
+              "id":"dnd5e"
+          }
+      ]
+  },
+  
+  "scripts": [
+    "scripts/blind-skills.js",
+    "scripts/settings.js"
+  ]
+}
