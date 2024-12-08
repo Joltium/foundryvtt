@@ -1,5 +1,6 @@
 {
   "id": "blind-skills",
+  "name": "blind-skills",
   "title": "Blind Skills",
   "version": "1.0.0",
   "compatibility": {
@@ -19,7 +20,7 @@
           }
       ]
   },
-  
+  "download": "releases/download/blind-skills/blind-skills.zip",
   "scripts": [
     "scripts/blind-skills.js",
     "scripts/settings.js"
